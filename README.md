@@ -2,7 +2,7 @@
 
 ## Link of Repo's Connected for this project are:
 
-* https://github.com/DhruvKinger/Neighborly-App-Azure
+* For Screenshots and FunctionApps https://github.com/DhruvKinger/Neighborly-App-Azure
 
-* https://github.com/DhruvKinger/Frontend-Flask
+* For Frontend Part: https://github.com/DhruvKinger/Frontend-Flask
 
